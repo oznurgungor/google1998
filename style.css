@@ -1,0 +1,66 @@
+
+body{
+    text-align: center;
+    
+}
+
+.resim{
+    background-color: rgb(230, 228, 228);
+    height: 70px;
+    margin: 0 81px;
+}
+
+.yazi{
+ height: 0px;
+}
+
+.btn{
+    
+    width: 320px;
+    height: 25px;
+    border-radius:3px;
+    background-color: rgb(243, 243, 243);
+    border-style:groove;
+    
+  
+}
+
+
+
+.bölüm3{
+    margin: 2px 81px;
+    align-items: center;
+}
+
+.bölüm3-1{
+    padding-top: 10px;
+    width: 33%; 
+    float: left;
+    background-color: #66cdaa;
+    margin-right: 2px;
+    height: 90px;
+}
+
+.bölüm3-2{
+    width:21%;
+    float: left;
+    background-color:#00bfff;
+    padding-top: 10px;
+    margin-right: 2px;
+    height: 90px;
+}
+
+.bölüm3-3{
+    float: left;
+    width: 45%;
+    height: 100px;
+    background-color:#008b8b;
+    padding-top: 0;
+    margin-right: 2px;
+    
+}
+
+.btn2{
+    width: 150px;
+    text-align: left;
+}
